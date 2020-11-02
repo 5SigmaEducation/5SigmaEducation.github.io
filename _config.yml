@@ -9,12 +9,12 @@
 title: 5Sigma Education 教育中心， 我爱学习
 
 # Your name to show in the footer
-author: Some Person
+author: 5Sigma
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  Our Teachers: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
