@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our Educators
+title: 教师团队
 subtitle: Why you should trust your future in our hands
 ---
 
