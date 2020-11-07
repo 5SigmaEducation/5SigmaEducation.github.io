@@ -2,7 +2,7 @@
 layout: post
 title: 教师团队
 subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/cynthia.JPG
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
