@@ -5,7 +5,7 @@ subtitle: Why you should trust your future in our hands
 ---
 
 
-![Cynthia Yan](/assets/img/cynthia.png?raw=true "Title")
+![Cynthia Yan](/tree/master/assets/img/cynthia.jpg)
 
 My name is Cynthia. I have the following qualities:
 
