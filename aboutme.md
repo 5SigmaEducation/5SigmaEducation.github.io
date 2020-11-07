@@ -7,10 +7,10 @@ subtitle: Why you should trust your future in our hands
 | 曲🐹 | 闫小花 | 曲🐹 |
 | :------ |:--- | :--- |
 
-<img src="assets/img/cynthia.JPG" width="200">
+|<img src="assets/img/cynthia.JPG" width="200">| | |
 
 
-My name is Cynthia. I have the following qualities:
+|My name is Cynthia. I have the following qualities:| | |
 
 - String Theory
 - Singing and Dancing
