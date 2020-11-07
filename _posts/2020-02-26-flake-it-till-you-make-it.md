@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 你的未来不是梦
+title: 教师团队
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
