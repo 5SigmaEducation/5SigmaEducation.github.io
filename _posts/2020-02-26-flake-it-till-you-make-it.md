@@ -1,8 +1,12 @@
 ---
-layout: page
+layout: post
 title: 教师团队
-subtitle: 您选择我们的原因
+subtitle: 英美顶尖博士硕士为您提供顶尖辅导
+
+tags: [test]
+comments: true
 ---
+
 | Frank老师 | Peppa老师 |  |
 | :------ | :------ | :------ |
 | <img src="/assets/img/frank.jpg" width="200"> | <img src="/assets/img/cynthia.JPG" width="200">  |  |
