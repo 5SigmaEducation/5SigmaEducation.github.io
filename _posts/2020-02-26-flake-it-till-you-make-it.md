@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 教师团队
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: 全部来自美国top5大学和英国top2大学
 cover-img: /assets/img/cynthia.JPG
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
