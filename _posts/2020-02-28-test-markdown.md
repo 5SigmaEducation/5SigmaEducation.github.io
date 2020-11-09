@@ -2,8 +2,6 @@
 layout: post
 title: 办学宗旨&服务范围
 subtitle: 帮助优秀的学生变得更优秀
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
