@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 教师团队
+title: [教师团队](https://5sigmaeducation.github.io/aboutme/)
 subtitle: 英美顶尖博士硕士为您提供顶尖辅导
 
 comments: true
