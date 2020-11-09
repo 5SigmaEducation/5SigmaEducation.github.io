@@ -30,6 +30,7 @@ round-avatar: true
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 title-img: "/assets/img/logo.jpeg"
+title: 5Sigma Education 教育中心， 我爱学习
 
 
 # --- Footer social media links --- #
@@ -59,7 +60,6 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 excerpt_separator: "<!-- more -->"
