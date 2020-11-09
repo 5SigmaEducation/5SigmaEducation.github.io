@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title:教师团队 
 subtitle: 英美顶尖博士硕士为您提供顶尖辅导
 
