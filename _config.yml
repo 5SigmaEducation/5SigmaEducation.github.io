@@ -62,6 +62,8 @@ social-network-links:
 rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
+excerpt_separator: "<!-- more -->"
+
 
 # Select which social network share links to show in posts
 share-links-active:
