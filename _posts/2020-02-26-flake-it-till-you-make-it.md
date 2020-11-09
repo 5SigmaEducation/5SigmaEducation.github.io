@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [教师团队]({{ site.baseurl }}{% link aboutme.md %})
+title: 教师团队
 subtitle: 英美顶尖博士硕士为您提供顶尖辅导
 
 comments: true
@@ -13,5 +13,5 @@ comments: true
 *  Peppa老师:哈维姆德大学 物理数学双料本科，剑桥硕士，斯坦福大学博士生
 *  阿虎老师: 印度理工学院副校长
 
-
+[更详细的了解我们]({{ site.baseurl }}{% link aboutme.md %})
 <!-- more -->
