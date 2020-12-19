@@ -16,7 +16,7 @@ author: 5Sigma
 navbar-links:
   我们的团队: "aboutme"
   服务项目: 
-    - 课程简介: "all_education"
+    - 课程简介: "allclasses"
     -AP: "AP"
     -Alevel: "Alevel"
     - Learn markdown: "https://www.markdowntutorial.com/"
