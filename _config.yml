@@ -16,6 +16,8 @@ author: 5Sigma
 navbar-links:
   我们的团队: "aboutme"
   服务项目: "Alevels"
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
   联系方式: "https://www.bilibili.com/video/av12062779/"
 
 # --- Logo --- #
