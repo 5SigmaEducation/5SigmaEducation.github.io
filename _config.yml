@@ -17,9 +17,12 @@ navbar-links:
   我们的团队: "aboutme"
   服务项目: 
     - 课程简介: "allclasses"
-    #-AP: "AP"
-    #-Alevel: "Alevel"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - AP: "AP"
+    - Alevel: "Alevel"
+    - AMC&AIME (美国数学竞赛): "amc"
+    - BPhO （英国物理竞赛）: "bpho"
+    - 面试 : "interview"
+
   联系方式: "https://www.bilibili.com/video/av12062779/"
 
 # --- Logo --- #
