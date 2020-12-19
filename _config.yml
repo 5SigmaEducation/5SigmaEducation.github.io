@@ -16,7 +16,9 @@ author: 5Sigma
 navbar-links:
   我们的团队: "aboutme"
   服务项目: 
-    - Alevels: "Alevels"
+    - 课程简介: "all_education"
+    -AP: "AP"
+    -Alevel: "Alevel"
     - Learn markdown: "https://www.markdowntutorial.com/"
   联系方式: "https://www.bilibili.com/video/av12062779/"
 
