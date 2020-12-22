@@ -25,6 +25,7 @@ title: 西格玛留学ALevels课程
 
 
 
-<span style="color:grey">*1课时= 1-1.5小时（根据学生学习情况安排）.* text</span>
-<span style="color:grey"> *测试与精讲课时安排根据学生学习情况调整.* text</span>
+<span style="color:grey">*1课时= 1-1.5小时（根据学生学习情况安排.* </span>
+
+<span style="color:grey"> *测试与精讲课时安排根据学生学习情况调整.* </span>
 
