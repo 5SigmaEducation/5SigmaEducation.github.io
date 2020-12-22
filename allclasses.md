@@ -9,7 +9,7 @@ subtitle: 深耕高端留学，帮助优秀的学生逐梦英美名校。国际�
 
 | 美国留学 | 英国留学 |
 | :------ | :------ |
-|<a href="https://5sigmaeducation.github.io/AP/">**AP (美国大学预科课程)**</a>| <a href="https://5sigmaeducation.github.io/AP/">**A-Levels (英国高中课程)**</a>  |
+|<a href="https://5sigmaeducation.github.io/AP/">**AP (美国大学预科课程)**</a>[ap](../AP/)| <a href="https://5sigmaeducation.github.io/AP/">**A-Levels (英国高中课程)**</a>  |
 | 微积分AB、微积分BC、统计学、物理C力学、物理C电磁学、化学、生物学、计算机、心理学| 数学、高等数学、统计学、物理、化学 、生物学、计算机科学、信息技术|
 |{::nomarkdown}<ul><li> 来自美国顶级高校的精英导师，教学经验丰富，全程护航，助力5分 </li><li> 梳理AP各学科基础框架，形成健全的学科知识体系 </li><li> 采用针对性教学方法，精讲各学科重点与难点 </li><li> 多维度，分章节的阶段测试，阶梯式教学激发学习动力 </li><li> 展开考试技巧以及学习习惯的教学，用充分的储备应对灵活的考试体系 </li><li>足不出户直播教学，形式多样化</li></ul>{:/}|{::nomarkdown}<ul><li> 牛剑G5师资班底，多年国际教育辅导经验沉淀，教学经验丰富 </li><li> 以心仪名校为导向，按需定制教学内容和教学进度 </li><li> 梳理各学科基础框架，高效夯实基础，形成健全的学科知识体系 </li><li> 采用针对性教学方法，精讲各学科重点与难点 </li><li> 提倡自主学习能力，引导学生找到合适自己的方法，提升学生本身的学术思维能力 </li><li> 全面提升考试技巧，打造最优备考状态 </li></ul>{:/}|
 | <a href="https://5sigmaeducation.github.io/amc/">**AMC&AIME (美国数学竞赛)** </a>  | <a href="https://5sigmaeducation.github.io/bpho/"> **BPhO （英国物理竞赛）** </a>|
