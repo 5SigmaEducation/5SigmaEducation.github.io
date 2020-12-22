@@ -3,7 +3,7 @@ layout: page
 title: 西格玛留学BPhO课程
 ---
 
-<a href="https://www.bpho.org.uk"/>关于BPhO(British Physics Olympiad):</a>
+<a href="https://www.bpho.org.uk">关于BPhO(British Physics Olympiad):</a>
 
 
 英国物理奥林匹克竞赛BPhO始于1979 年，至今已近25年的历史。1983 年起，BPhO正式为英国选拔国家代表队正式为英国选拔国家代表队，主要由牛津大学、英国物理学会和 Odgen 基金会组成，办公室设在牛津大学物理系。BPhO非常注重物理知识的灵活运用，全部的试题为证明题。参赛者需运用自己所学物理知识完成挑战，其涉及的知识点非常广泛，考试不要求同学们完成所有试题，而是鼓励同学们根据自己兴趣和学习范围选择完成自己擅长的部分。英国国籍的优秀选手将代表英国组成国家队参加International Physics Olympiad（IPhO）国际物理奥赛。
