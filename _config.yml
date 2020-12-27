@@ -22,7 +22,6 @@ navbar-links:
     - AMC&AIME (美国数学竞赛): "amc"
     - BPhO （英国物理竞赛）: "bpho"
     - 面试 : "interview"
-  课外互动: "activities"
   联系方式: "contactus"
 
 # --- Logo --- #
