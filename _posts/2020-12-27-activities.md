@@ -1,6 +1,6 @@
 ---
 layout: post
-title: G5博士面对面
+title: 近期活动
 tags: [互动, 博士面对面]
 ---
 
