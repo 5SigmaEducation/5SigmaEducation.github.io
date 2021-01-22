@@ -18,7 +18,7 @@ subtitle: 您选择我们的原因
 | Robert老师 |  Suzy老师 |
 | :------ | :------ | 
 | <img src="/assets/img/IMG_7427.JPG" width="200"> | <img src="/assets/img/egg.png" width="200"> |
-| {::nomarkdown}<ul><li> 英国牛津大学物理学本科 </li><li> 英国牛津大学数学物理和理论物理硕士 </li></ul>{:/}| {::nomarkdown}<ul><li> 毕业于北京人大附中早培班，十五的“老”竞赛选手 </li><li> 美国Harvey Mudd College本科在读 </li></ul>{:/}|
+| {::nomarkdown}<ul><li> 英国牛津大学物理学本科 </li><li> 英国牛津大学数学物理和理论物理硕士 </li></ul>{:/}| {::nomarkdown}<ul><li> 毕业于北京人大附中早培班，十五年的“老”数竞选手 </li><li> 美国Harvey Mudd College本科在读 </li></ul>{:/}|
 | 以优异的成绩获得英国牛津大学物理学本科，理论物理硕士学位，剑桥大学理论物理硕士。清楚简洁的作业题解答在物理圈子中广为流传。有很长的留学从业经验，擅长辅导英国物理竞赛、牛津大学本科物理入学考试等专业性强的内容。曾帮助许多学生逐梦英国大学。| 高中毕业于北京人大附中早培班，本科毕业于美国Harvey Mudd College。十五年参加数学竞赛经历。高中时曾获得全国高中数学联赛一等奖，Harvard-MIT Math Tournament团体第二，Princeton University Math Competition个人三项前十。大学Putnam Math Competition全国前一百名。有多年丰富的数学和数学竞赛教学经验。 |
 
 
